@@ -1,0 +1,10 @@
+{
+  "intents": [
+    {
+      "intent": "IsTodayIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}

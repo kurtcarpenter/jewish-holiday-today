@@ -1,0 +1,20 @@
+{
+  "name": "jewish-holiday-today",
+  "version": "1.0.0",
+  "description": "A simple Alexa Skill that tells the user whether or not today is a holiday on the Hebrew calendar.",
+  "main": "index.js",
+  "dependencies": {
+    "hebcal": "^2.2.2",
+    "alexa-sdk": "^1.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kurtcarpenter",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kurtcarpenter/jewish-holiday-today"
+  }
+}
